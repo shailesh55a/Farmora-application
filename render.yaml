@@ -1,0 +1,39 @@
+services:
+  - type: web
+    name: farmora-backend
+    runtime: node
+    rootDir: backend
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: FRONTEND_ORIGIN
+        sync: false
+      - key: ALLOW_VERCEL_PREVIEWS
+        value: "true"
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: qwen/qwen3.6-27b
+      - key: GROQ_VISION_MODEL
+        value: qwen/qwen3.6-27b
+      - key: AGMARKNET_API_KEY
+        sync: false
+      - key: ELEVENLABS_API_KEY
+        sync: false
+      - key: ELEVENLABS_MODEL_ID
+        value: eleven_v3
+      - key: ELEVENLABS_VOICE_ID
+        sync: false
+      - key: ELEVENLABS_VOICE_ID_EN
+        sync: false
+      - key: ELEVENLABS_VOICE_ID_HI
+        sync: false
+      - key: SARVAM_API_KEY
+        sync: false
+      - key: SARVAM_TTS_MODEL
+        value: bulbul:v3
+      - key: SARVAM_MR_SPEAKER
+        value: priya

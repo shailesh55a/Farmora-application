@@ -1,0 +1,671 @@
+{
+  "version": "2026-08-28",
+  "sourcePolicy": "Verified crop-treatment entries are grounded in official ICAR/PPQS guidance. Brand pack images are shown only as clearly labelled examples; a pack image is never treated as proof of recommendation. Always follow the current registered product label.",
+  "entries": [
+    {
+      "id": "tomato-early-blight-cymoxanil-mancozeb",
+      "crop": "tomato",
+      "disease": "early_blight",
+      "productName": "Cymoxanil + Mancozeb formulation",
+      "productType": "Fungicide",
+      "activeIngredient": "Cymoxanil + Mancozeb",
+      "purpose": "Management of early and late blight in tomato.",
+      "applicationGuidance": "ICAR reports 2 g per litre of water for management of early and late blight in tomato in the cited demonstration.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR – Enhancing Livelihood Security of Tribal Community of Dehradun through Technological Interventions in Tomato",
+      "sourceUrl": "https://icar.gov.in/en/node/4685",
+      "localized": {
+        "en": {
+          "productName": "Cymoxanil + Mancozeb formulation",
+          "productType": "Fungicide",
+          "purpose": "Management of early and late blight in tomato.",
+          "applicationGuidance": "ICAR reports 2 g per litre of water for management of early and late blight in tomato in the cited demonstration.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Cymoxanil + Mancozeb formulation",
+          "productType": "फफूंदनाशक",
+          "purpose": "टमाटर में अगेती और पछेती झुलसा रोग का प्रबंधन।",
+          "applicationGuidance": "ICAR के उल्लिखित प्रदर्शन में टमाटर में अगेती और पछेती झुलसा के प्रबंधन के लिए 2 g प्रति लीटर पानी की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Cymoxanil + Mancozeb formulation",
+          "productType": "बुरशीनाशक",
+          "purpose": "टोमॅटोमधील लवकर व उशिरा येणाऱ्या करप्याचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR च्या नमूद प्रात्यक्षिकात टोमॅटोमधील लवकर व उशिरा येणाऱ्या करप्याच्या व्यवस्थापनासाठी 2 ग्रॅम प्रति लिटर पाणी नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "tomato-early-blight-pyraclostrobin-metiram",
+      "crop": "tomato",
+      "disease": "early_blight",
+      "productName": "Pyraclostrobin + Metiram formulation",
+      "productType": "Fungicide",
+      "activeIngredient": "Pyraclostrobin + Metiram",
+      "purpose": "Management of early and late blight in tomato.",
+      "applicationGuidance": "ICAR reports 2 g per litre of water for management of early and late blight in tomato in the cited demonstration.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR – Enhancing Livelihood Security of Tribal Community of Dehradun through Technological Interventions in Tomato",
+      "sourceUrl": "https://icar.gov.in/en/node/4685",
+      "localized": {
+        "en": {
+          "productName": "Pyraclostrobin + Metiram formulation",
+          "productType": "Fungicide",
+          "purpose": "Management of early and late blight in tomato.",
+          "applicationGuidance": "ICAR reports 2 g per litre of water for management of early and late blight in tomato in the cited demonstration.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Pyraclostrobin + Metiram formulation",
+          "productType": "फफूंदनाशक",
+          "purpose": "टमाटर में अगेती और पछेती झुलसा रोग का प्रबंधन।",
+          "applicationGuidance": "ICAR के उल्लिखित प्रदर्शन में टमाटर में अगेती और पछेती झुलसा के प्रबंधन के लिए 2 g प्रति लीटर पानी की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Pyraclostrobin + Metiram formulation",
+          "productType": "बुरशीनाशक",
+          "purpose": "टोमॅटोमधील लवकर व उशिरा येणाऱ्या करप्याचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR च्या नमूद प्रात्यक्षिकात टोमॅटोमधील लवकर व उशिरा येणाऱ्या करप्याच्या व्यवस्थापनासाठी 2 ग्रॅम प्रति लिटर पाणी नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "tomato-fruit-borer-profenophos-cypermethrin",
+      "crop": "tomato",
+      "disease": "fruit_borer",
+      "productName": "Profenophos + Cypermethrin formulation",
+      "productType": "Insecticide",
+      "activeIngredient": "Profenophos + Cypermethrin",
+      "purpose": "Management of fruit borer in tomato.",
+      "applicationGuidance": "ICAR reports 2 ml per litre of water for management of tomato fruit borer in the cited demonstrations.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR – Enhancing Livelihood Security of Tribal Community of Dehradun through Technological Interventions in Tomato",
+      "sourceUrl": "https://icar.gov.in/en/node/4685",
+      "localized": {
+        "en": {
+          "productName": "Profenophos + Cypermethrin formulation",
+          "productType": "Insecticide",
+          "purpose": "Management of fruit borer in tomato.",
+          "applicationGuidance": "ICAR reports 2 ml per litre of water for management of tomato fruit borer in the cited demonstrations.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Profenophos + Cypermethrin formulation",
+          "productType": "कीटनाशक",
+          "purpose": "टमाटर में फल छेदक कीट का प्रबंधन।",
+          "applicationGuidance": "ICAR के उल्लिखित प्रदर्शनों में टमाटर में फल छेदक के प्रबंधन के लिए 2 ml प्रति लीटर पानी की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Profenophos + Cypermethrin formulation",
+          "productType": "कीटकनाशक",
+          "purpose": "टोमॅटोमधील फळ पोखरणाऱ्या किडीचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR च्या नमूद प्रात्यक्षिकांमध्ये टोमॅटोतील फळ पोखरणाऱ्या किडीच्या व्यवस्थापनासाठी 2 मिली प्रति लिटर पाणी नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "brinjal-shoot-fruit-borer-chlorantraniliprole",
+      "crop": "brinjal",
+      "disease": "shoot_fruit_borer",
+      "productName": "Chlorantraniliprole 18.5% SC",
+      "productType": "Insecticide",
+      "activeIngredient": "Chlorantraniliprole 18.5% SC",
+      "purpose": "Management of brinjal shoot and fruit borer.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 180 ml/ha for brinjal shoot and fruit borer.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/Circulars/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Chlorantraniliprole 18.5% SC",
+          "productType": "Insecticide",
+          "purpose": "Management of brinjal shoot and fruit borer.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 180 ml/ha for brinjal shoot and fruit borer.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Chlorantraniliprole 18.5% SC",
+          "productType": "कीटनाशक",
+          "purpose": "बैंगन में तना/शूट और फल छेदक कीट का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 में बैंगन में तना/शूट और फल छेदक के लिए 180 ml/ha की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Chlorantraniliprole 18.5% SC",
+          "productType": "कीटकनाशक",
+          "purpose": "वांग्यातील शेंडा व फळ पोखरणाऱ्या किडीचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 मध्ये वांग्यातील शेंडा व फळ पोखरणाऱ्या किडीसाठी 180 मिली/हेक्टर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "brinjal-shoot-fruit-borer-emamectin",
+      "crop": "brinjal",
+      "disease": "shoot_fruit_borer",
+      "productName": "Emamectin benzoate 5 SG",
+      "productType": "Insecticide",
+      "activeIngredient": "Emamectin benzoate 5 SG",
+      "purpose": "Management of brinjal shoot and fruit borer.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 200 g/ha for brinjal shoot and fruit borer.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/Circulars/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Emamectin benzoate 5 SG",
+          "productType": "Insecticide",
+          "purpose": "Management of brinjal shoot and fruit borer.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 200 g/ha for brinjal shoot and fruit borer.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Emamectin benzoate 5 SG",
+          "productType": "कीटनाशक",
+          "purpose": "बैंगन में तना/शूट और फल छेदक कीट का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 में बैंगन में तना/शूट और फल छेदक के लिए 200 g/ha की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Emamectin benzoate 5 SG",
+          "productType": "कीटकनाशक",
+          "purpose": "वांग्यातील शेंडा व फळ पोखरणाऱ्या किडीचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 मध्ये वांग्यातील शेंडा व फळ पोखरणाऱ्या किडीसाठी 200 ग्रॅम/हेक्टर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "maize-fall-armyworm-chlorantraniliprole",
+      "crop": "maize",
+      "disease": "fall_armyworm",
+      "productName": "Chlorantraniliprole 18.5 SC",
+      "productType": "Insecticide",
+      "activeIngredient": "Chlorantraniliprole 18.5 SC",
+      "purpose": "Management of fall armyworm in young maize crop.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 200 ml in 500 L water per ha for crop up to 20 days old.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Chlorantraniliprole 18.5 SC",
+          "productType": "Insecticide",
+          "purpose": "Management of fall armyworm in young maize crop.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 200 ml in 500 L water per ha for crop up to 20 days old.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Chlorantraniliprole 18.5 SC",
+          "productType": "कीटनाशक",
+          "purpose": "कम उम्र की मक्का फसल में फॉल आर्मीवर्म का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 में 20 दिन तक की मक्का फसल के लिए 500 L पानी में 200 ml/ha की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Chlorantraniliprole 18.5 SC",
+          "productType": "कीटकनाशक",
+          "purpose": "लहान मका पिकातील फॉल आर्मीवर्मचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 मध्ये 20 दिवसांपर्यंतच्या मका पिकासाठी 500 लिटर पाण्यात 200 मिली प्रति हेक्टर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "maize-fall-armyworm-emamectin",
+      "crop": "maize",
+      "disease": "fall_armyworm",
+      "productName": "Emamectin benzoate 5 SG",
+      "productType": "Insecticide",
+      "activeIngredient": "Emamectin benzoate 5 SG",
+      "purpose": "Management of fall armyworm in young maize crop.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 200 g in 500 L water per ha for crop up to 20 days old.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Emamectin benzoate 5 SG",
+          "productType": "Insecticide",
+          "purpose": "Management of fall armyworm in young maize crop.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 200 g in 500 L water per ha for crop up to 20 days old.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Emamectin benzoate 5 SG",
+          "productType": "कीटनाशक",
+          "purpose": "कम उम्र की मक्का फसल में फॉल आर्मीवर्म का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 में 20 दिन तक की मक्का फसल के लिए 500 L पानी में 200 g/ha की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Emamectin benzoate 5 SG",
+          "productType": "कीटकनाशक",
+          "purpose": "लहान मका पिकातील फॉल आर्मीवर्मचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 मध्ये 20 दिवसांपर्यंतच्या मका पिकासाठी 500 लिटर पाण्यात 200 ग्रॅम प्रति हेक्टर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "rice-stem-borer-leaf-folder-chlorantraniliprole",
+      "crop": "rice",
+      "disease": "stem_borer_leaf_folder",
+      "productName": "Chlorantraniliprole 18.5 SC",
+      "productType": "Insecticide",
+      "activeIngredient": "Chlorantraniliprole 18.5 SC",
+      "purpose": "Management of rice stem borer and leaf folder.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory lists Coragen (chlorantraniliprole) 18.5 SC at 150 ml/ha for rice stem borer and leaf folder.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/Circulars/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Chlorantraniliprole 18.5 SC",
+          "productType": "Insecticide",
+          "purpose": "Management of rice stem borer and leaf folder.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory lists Coragen (chlorantraniliprole) 18.5 SC at 150 ml/ha for rice stem borer and leaf folder.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Chlorantraniliprole 18.5 SC",
+          "productType": "कीटनाशक",
+          "purpose": "धान में तना छेदक और पत्ती लपेटक कीट का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory में धान के तना छेदक और पत्ती लपेटक के लिए Coragen (chlorantraniliprole) 18.5 SC की 150 ml/ha मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Chlorantraniliprole 18.5 SC",
+          "productType": "कीटकनाशक",
+          "purpose": "भातातील खोडकिडा व पाने गुंडाळणाऱ्या किडीचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory मध्ये भातातील खोडकिडा व पाने गुंडाळणाऱ्या किडीसाठी Coragen (chlorantraniliprole) 18.5 SC चे 150 मिली/हेक्टर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "soybean-girdle-beetle-chlorantraniliprole",
+      "crop": "soybean",
+      "disease": "girdle_beetle",
+      "productName": "Chlorantraniliprole 18.5 SC",
+      "productType": "Insecticide",
+      "activeIngredient": "Chlorantraniliprole 18.5 SC",
+      "purpose": "Management of soybean girdle beetle and related insect pests.",
+      "applicationGuidance": "ICAR-Indian Institute of Soybean Research advisory lists Chlorantraniliprole 18.5 SC at 150 ml/ha.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR-Indian Institute of Soybean Research – Weekly Advisory for Soybean Farmers",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/2022-07/weekly_advisory_for_soyabean_farmers_02.pdf",
+      "localized": {
+        "en": {
+          "productName": "Chlorantraniliprole 18.5 SC",
+          "productType": "Insecticide",
+          "purpose": "Management of soybean girdle beetle and related insect pests.",
+          "applicationGuidance": "ICAR-Indian Institute of Soybean Research advisory lists Chlorantraniliprole 18.5 SC at 150 ml/ha.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Chlorantraniliprole 18.5 SC",
+          "productType": "कीटनाशक",
+          "purpose": "सोयाबीन में गर्डल बीटल और संबंधित कीटों का प्रबंधन।",
+          "applicationGuidance": "ICAR-Indian Institute of Soybean Research की सलाह में Chlorantraniliprole 18.5 SC की 150 ml/ha मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Chlorantraniliprole 18.5 SC",
+          "productType": "कीटकनाशक",
+          "purpose": "सोयाबीनमधील गर्डल बीटल व संबंधित किडींचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR-Indian Institute of Soybean Research च्या सल्ल्यानुसार Chlorantraniliprole 18.5 SC चे 150 मिली/हेक्टर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "soybean-aerial-blight-tebuconazole",
+      "crop": "soybean",
+      "disease": "aerial_blight",
+      "productName": "Tebuconazole formulation",
+      "productType": "Fungicide",
+      "activeIngredient": "Tebuconazole",
+      "purpose": "Management of Rhizoctonia aerial blight in soybean.",
+      "applicationGuidance": "ICAR soybean advisory lists Tebuconazole at 625 ml/ha for Rhizoctonia aerial blight.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR-Indian Institute of Soybean Research – Weekly Advisory for Soybean Farmers",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/2022-07/weekly_advisory_for_soyabean_farmers_02.pdf",
+      "localized": {
+        "en": {
+          "productName": "Tebuconazole formulation",
+          "productType": "Fungicide",
+          "purpose": "Management of Rhizoctonia aerial blight in soybean.",
+          "applicationGuidance": "ICAR soybean advisory lists Tebuconazole at 625 ml/ha for Rhizoctonia aerial blight.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Tebuconazole formulation",
+          "productType": "फफूंदनाशक",
+          "purpose": "सोयाबीन में राइज़ोक्टोनिया एरियल ब्लाइट का प्रबंधन।",
+          "applicationGuidance": "ICAR की सोयाबीन सलाह में राइज़ोक्टोनिया एरियल ब्लाइट के लिए Tebuconazole की 625 ml/ha मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Tebuconazole formulation",
+          "productType": "बुरशीनाशक",
+          "purpose": "सोयाबीनमधील रायझोक्टोनिया एरियल ब्लाइटचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR च्या सोयाबीन सल्ल्यामध्ये Rhizoctonia aerial blight साठी Tebuconazole 625 मिली/हेक्टर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "chickpea-pod-borer-emamectin",
+      "crop": "gram",
+      "disease": "pod_borer",
+      "productName": "Emamectin benzoate 5 SG",
+      "productType": "Insecticide",
+      "activeIngredient": "Emamectin benzoate 5 SG",
+      "purpose": "Management of chickpea pod borer.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 0.5 g/L at flowering and pod formation stages.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Emamectin benzoate 5 SG",
+          "productType": "Insecticide",
+          "purpose": "Management of chickpea pod borer.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 0.5 g/L at flowering and pod formation stages.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Emamectin benzoate 5 SG",
+          "productType": "कीटनाशक",
+          "purpose": "चना में फली छेदक कीट का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 में फूल आने और फली बनने की अवस्थाओं में 0.5 g/L की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Emamectin benzoate 5 SG",
+          "productType": "कीटकनाशक",
+          "purpose": "हरभऱ्यातील शेंगा पोखरणाऱ्या किडीचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 मध्ये फुलोरा व शेंगा तयार होण्याच्या अवस्थेत 0.5 ग्रॅम/लिटर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "chickpea-blight-mancozeb",
+      "crop": "gram",
+      "disease": "blight",
+      "productName": "Mancozeb 75% WP",
+      "productType": "Fungicide",
+      "activeIngredient": "Mancozeb 75% WP",
+      "purpose": "Management of Alternaria/Cercospora blight in chickpea.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 2.5–3.0 g/L when symptoms first appear.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Mancozeb 75% WP",
+          "productType": "Fungicide",
+          "purpose": "Management of Alternaria/Cercospora blight in chickpea.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 2.5–3.0 g/L when symptoms first appear.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Mancozeb 75% WP",
+          "productType": "फफूंदनाशक",
+          "purpose": "चना में अल्टरनेरिया/सर्कोस्पोरा झुलसा रोग का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 में लक्षण पहली बार दिखाई देने पर 2.5–3.0 g/L की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Mancozeb 75% WP",
+          "productType": "बुरशीनाशक",
+          "purpose": "हरभऱ्यातील अल्टरनेरिया/सेरकोस्पोरा करप्याचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 मध्ये लक्षणे प्रथम दिसल्यावर 2.5–3.0 ग्रॅम/लिटर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "cotton-aphid-jassid-acetamiprid",
+      "crop": "cotton",
+      "disease": "aphid_jassid",
+      "productName": "Acetamiprid 20 SP",
+      "productType": "Insecticide",
+      "activeIngredient": "Acetamiprid 20 SP",
+      "purpose": "Management of jassids and aphids in cotton.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory for cotton lists Acetamiprid 20 SP at 1.5 g per 10 L water for jassid, thrips, aphids and mites.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": "https://static.agrostar.in/static/AGS-CP-948_N2_1.jpg",
+      "imageKind": "example_pack",
+      "brandName": "AgroStar Madrid (Acetamiprid 20% SP)",
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/Circulars/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Acetamiprid 20 SP",
+          "productType": "Insecticide",
+          "purpose": "Management of jassids and aphids in cotton.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory for cotton lists Acetamiprid 20 SP at 1.5 g per 10 L water for jassid, thrips, aphids and mites.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Acetamiprid 20 SP",
+          "productType": "कीटनाशक",
+          "purpose": "कपास में जैसिड और माहू का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory for cotton में जैसिड, थ्रिप्स, माहू और माइट्स के लिए Acetamiprid 20 SP की 10 L पानी में 1.5 g मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Acetamiprid 20 SP",
+          "productType": "कीटकनाशक",
+          "purpose": "कापसातील तुडतुडे व माव्याचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory for cotton मध्ये जॅसिड, थ्रिप्स, मावा व माइट्ससाठी Acetamiprid 20 SP चे 10 लिटर पाण्यात 1.5 ग्रॅम नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      },
+      "imageSource": "AgroStar product page",
+      "imageSourceUrl": "https://agrostar.in/product/agrostar-madrid-acetamiprid-20-sp-250-g/AGS-CP-948?language=en&state=maharashtra"
+    },
+    {
+      "id": "cotton-whitefly-dimethoate",
+      "crop": "cotton",
+      "disease": "whitefly",
+      "productName": "Dimethoate 30 EC",
+      "productType": "Insecticide",
+      "activeIngredient": "Dimethoate 30 EC",
+      "purpose": "Management of whitefly in cotton.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory for cotton lists Dimethoate 30 EC at 33 ml per 10 L water for whitefly.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/Circulars/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Dimethoate 30 EC",
+          "productType": "Insecticide",
+          "purpose": "Management of whitefly in cotton.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory for cotton lists Dimethoate 30 EC at 33 ml per 10 L water for whitefly.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Dimethoate 30 EC",
+          "productType": "कीटनाशक",
+          "purpose": "कपास में सफेद मक्खी का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory for cotton में सफेद मक्खी के लिए Dimethoate 30 EC की 10 L पानी में 33 ml मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Dimethoate 30 EC",
+          "productType": "कीटकनाशक",
+          "purpose": "कापसातील पांढऱ्या माशीचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory for cotton मध्ये पांढऱ्या माशीसाठी Dimethoate 30 EC चे 10 लिटर पाण्यात 33 मिली नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "chili-leaf-spot-chlorothalonil",
+      "crop": "chili",
+      "disease": "leaf_spot",
+      "productName": "Chlorothalonil 75% WP",
+      "productType": "Fungicide",
+      "activeIngredient": "Chlorothalonil 75% WP",
+      "purpose": "Management of leaf spot in chilli.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 2 g/L of water every 15 days for chilli leaf spot.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/Circulars/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Chlorothalonil 75% WP",
+          "productType": "Fungicide",
+          "purpose": "Management of leaf spot in chilli.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 2 g/L of water every 15 days for chilli leaf spot.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Chlorothalonil 75% WP",
+          "productType": "फफूंदनाशक",
+          "purpose": "मिर्च में पत्ती धब्बा रोग का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 में मिर्च के पत्ती धब्बा के लिए हर 15 दिन में 2 g/L पानी की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Chlorothalonil 75% WP",
+          "productType": "बुरशीनाशक",
+          "purpose": "मिरचीवरील पानावरील डाग रोगाचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 मध्ये मिरचीवरील पानावरील डागांसाठी दर 15 दिवसांनी 2 ग्रॅम/लिटर पाणी नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "pigeonpea-pod-borer-spinosad",
+      "crop": "pigeonpea",
+      "disease": "pod_borer",
+      "productName": "Spinosad 45 SC",
+      "productType": "Insecticide",
+      "activeIngredient": "Spinosad 45 SC",
+      "purpose": "Management of pigeonpea pod borer.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 0.3 ml/L at flowering and pod formation stages.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/Circulars/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Spinosad 45 SC",
+          "productType": "Insecticide",
+          "purpose": "Management of pigeonpea pod borer.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 0.3 ml/L at flowering and pod formation stages.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Spinosad 45 SC",
+          "productType": "कीटनाशक",
+          "purpose": "अरहर में फली छेदक कीट का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 में फूल आने और फली बनने की अवस्थाओं में 0.3 ml/L की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Spinosad 45 SC",
+          "productType": "कीटकनाशक",
+          "purpose": "तुरीतील शेंगा पोखरणाऱ्या किडीचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 मध्ये फुलोरा व शेंगा तयार होण्याच्या अवस्थेत 0.3 मिली/लिटर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    },
+    {
+      "id": "groundnut-rust-propiconazole",
+      "crop": "groundnut",
+      "disease": "rust",
+      "productName": "Propiconazole 25 EC",
+      "productType": "Fungicide",
+      "activeIngredient": "Propiconazole 25 EC",
+      "purpose": "Management of groundnut rust.",
+      "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 1 ml/L as a foliar spray during early flowering or on symptom appearance.",
+      "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it.",
+      "imageUrl": null,
+      "imageKind": "reference_illustration",
+      "brandName": null,
+      "source": "ICAR Kharif Agro-Advisories for Farmers 2025",
+      "sourceUrl": "https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf",
+      "localized": {
+        "en": {
+          "productName": "Propiconazole 25 EC",
+          "productType": "Fungicide",
+          "purpose": "Management of groundnut rust.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 lists 1 ml/L as a foliar spray during early flowering or on symptom appearance.",
+          "safety": "Use only a product registered and label-claimed for the specified crop and target. Follow the current product label/leaflet, required protective equipment and pre-harvest interval. Do not mix products unless the label permits it."
+        },
+        "hi": {
+          "productName": "Propiconazole 25 EC",
+          "productType": "फफूंदनाशक",
+          "purpose": "मूंगफली में रस्ट रोग का प्रबंधन।",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 में शुरुआती फूल आने के समय या लक्षण दिखाई देने पर पत्तियों पर छिड़काव के रूप में 1 ml/L की मात्रा बताई गई है।",
+          "safety": "केवल संबंधित फसल और लक्ष्य के लिए पंजीकृत तथा लेबल पर दावा किए गए उत्पाद का उपयोग करें। वर्तमान उत्पाद लेबल/पर्चे की सूचना, आवश्यक सुरक्षात्मक उपकरण और कटाई-पूर्व प्रतीक्षा अवधि का पालन करें। लेबल पर अनुमति न होने पर उत्पादों को न मिलाएं।"
+        },
+        "mr": {
+          "productName": "Propiconazole 25 EC",
+          "productType": "बुरशीनाशक",
+          "purpose": "भुईमुगातील तांबेरा रोगाचे व्यवस्थापन.",
+          "applicationGuidance": "ICAR Kharif Agro-Advisory 2025 मध्ये सुरुवातीच्या फुलोऱ्यात किंवा लक्षणे दिसल्यावर पानांवर फवारणीसाठी 1 मिली/लिटर नमूद आहे.",
+          "safety": "केवळ संबंधित पीक व लक्ष्य घटकासाठी नोंदणीकृत आणि लेबलवर दावा असलेले उत्पादनच वापरा. सध्याच्या उत्पादनाच्या लेबल/पत्रिकेतील सूचना, आवश्यक संरक्षणात्मक साधने आणि काढणीपूर्व प्रतीक्षा कालावधी पाळा. लेबलवर परवानगी नसल्यास उत्पादने मिसळू नका."
+        }
+      }
+    }
+  ]
+}

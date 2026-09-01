@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  height: 100%;
+}
+
+.weather-scene { position: relative; color: white; transition: background 300ms ease; }
+.weather-sunny { background: linear-gradient(135deg, #78b86a, #1f5a3a); }
+.weather-cloudy { background: linear-gradient(135deg, #647b83, #334c50); }
+.weather-rain { background: linear-gradient(135deg, #3d6473, #183a46); }
+.weather-storm { background: linear-gradient(135deg, #3f4856, #1d2530); }
+.weather-night { background: linear-gradient(135deg, #253752, #101a2a); }
+.weather-scene-orb { position:absolute; right:18px; top:10px; font-size:76px; opacity:.22; filter:drop-shadow(0 8px 12px rgba(0,0,0,.15)); transform:translateZ(0); animation:weatherFloat 4s ease-in-out infinite; }
+.weather-rain-lines { position:absolute; right:10px; top:0; width:120px; height:100%; color:rgba(255,255,255,.3); letter-spacing:10px; font-size:16px; line-height:25px; writing-mode:vertical-rl; animation:rainFall 1s linear infinite; }
+@keyframes weatherFloat { 0%,100% { transform:translateY(0) scale(1); } 50% { transform:translateY(-5px) scale(1.03); } }
+@keyframes rainFall { from { transform:translateY(-18px); opacity:.15; } to { transform:translateY(18px); opacity:.5; } }
+
+.sevak-avatar-wrap { width:54px; height:54px; flex:0 0 54px; display:flex; align-items:flex-end; justify-content:center; perspective:180px; }
+.sevak-avatar { width:50px; height:54px; position:relative; transform:rotateY(-8deg); transform-style:preserve-3d; }
+.sevak-head { position:absolute; left:8px; top:3px; width:34px; height:36px; border-radius:48% 48% 45% 45%; background:linear-gradient(145deg,#c98255,#8f5439); box-shadow:inset -4px -4px 0 rgba(75,35,20,.12), 3px 5px 0 rgba(31,61,43,.12); }
+.sevak-hair { position:absolute; left:-1px; top:-3px; width:36px; height:14px; border-radius:50% 55% 35% 35%; background:#263027; }
+.sevak-ear { position:absolute; top:15px; width:5px; height:9px; border-radius:50%; background:#a96847; }
+.sevak-ear.left { left:-3px; }.sevak-ear.right { right:-3px; }
+.sevak-eye { position:absolute; top:16px; width:4px; height:4px; border-radius:50%; background:#172118; }
+.sevak-eye.left { left:9px; }.sevak-eye.right { right:9px; }
+.sevak-nose { position:absolute; left:16px; top:19px; width:3px; height:6px; border-right:2px solid rgba(72,38,24,.35); border-radius:50%; }
+.sevak-smile { position:absolute; left:13px; top:27px; width:9px; height:4px; border-bottom:2px solid #542d25; border-radius:0 0 8px 8px; }
+.sevak-neck { position:absolute; left:20px; top:35px; width:11px; height:8px; background:#9c5f42; }
+.sevak-body { position:absolute; left:3px; top:40px; width:44px; height:20px; border-radius:14px 14px 7px 7px; background:linear-gradient(145deg,#3d8058,#1f5136); box-shadow:inset -5px -3px 0 rgba(18,38,26,.15); }
+.sevak-collar { position:absolute; left:16px; top:0; width:12px; height:12px; background:#f3ead4; clip-path:polygon(0 0,50% 70%,100% 0,75% 100%,50% 72%,25% 100%); }
+.sevak-badge { position:absolute; right:5px; top:7px; width:14px; height:14px; border-radius:50%; background:#f0d68a; display:flex; align-items:center; justify-content:center; font-size:8px; }
+
+
+/* Mobile-safe layout: prevent desktop-width children from forcing horizontal scrolling. */
+*, *::before, *::after { box-sizing: border-box; }
+html, body, #root { width: 100%; max-width: 100%; overflow-x: hidden; }
+img, video, iframe { max-width: 100%; }
+button, input, select, textarea { max-width: 100%; }
+@media (max-width: 640px) {
+  .farmora-mobile-tight { padding-left: 12px !important; padding-right: 12px !important; }
+  .farmora-desktop-only { display: none !important; }
+}
+
+/* On phones/small screens the app fills the entire viewport (true app-like
+   feel, using dvh so mobile browser toolbars never clip content). On larger
+   screens (tablets/laptops/desktops) the same UI is shown centered inside a
+   phone-sized "device" card instead of stretching edge-to-edge, which is
+   what was making the layout look broken on wide screens. */
+html, body, #root {
+  min-height: 100dvh;
+}
+@media (min-width: 768px) {
+  body {
+    min-height: 100dvh;
+    background: radial-gradient(circle at 50% 0%, #EFE9D8 0%, #E4DEC9 55%, #DAD3BA 100%);
+  }
+}
+@media (max-width: 767.98px) {
+  .app-shell { border-radius: 0 !important; box-shadow: none !important; }
+}
+
+
+/* Farmora phone hardening: safe areas, tiny-width phones, and keyboard-safe chat. */
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  overscroll-behavior-x: none;
+}
+body { margin: 0; min-width: 0; }
+button, input, textarea { font: inherit; }
+.app-shell {
+  width: 100%;
+  max-width: 100vw;
+  min-width: 0;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.assistant-panel {
+  min-width: 0;
+  min-height: 0;
+  padding-bottom: max(8px, env(safe-area-inset-bottom));
+}
+.assistant-messages {
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
+}
+.assistant-messages > div { min-width: 0; }
+.assistant-messages p { overflow-wrap: anywhere; word-break: break-word; }
+.assistant-composer {
+  width: 100%;
+  min-width: 0;
+}
+.assistant-composer label,
+.assistant-composer button {
+  width: 38px;
+  height: 38px;
+  flex: 0 0 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+.assistant-input { min-width: 0 !important; width: 100%; }
+@media (max-width: 380px) {
+  .assistant-panel { padding-left: 10px !important; padding-right: 10px !important; }
+  .assistant-composer { gap: 4px !important; }
+  .assistant-composer label, .assistant-composer button { width: 35px; height: 35px; flex-basis: 35px; }
+  .assistant-input { padding-left: 10px !important; padding-right: 10px !important; font-size: 13px !important; }
+}
+@media (max-width: 767.98px) {
+  .app-shell { height: 100dvh; min-height: 100dvh; }
+  .assistant-messages { min-height: 0 !important; }
+  input, textarea, select { font-size: 16px; }
+}
+@media (min-width: 768px) {
+  .app-shell { max-width: 430px; }
+}
+
+.farmora-bottom-nav { padding-bottom: env(safe-area-inset-bottom); }
+.farmora-bottom-nav button { min-width: 0; }
+.farmora-bottom-nav span { max-width: 100%; overflow: hidden; text-overflow: ellipsis; }

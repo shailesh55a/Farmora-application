@@ -1,0 +1,56 @@
+{
+  "version": "2026-08-27",
+  "sourcePolicy": "Only verified entries from cited agricultural extension sources are used. No fertilizer brand, image, dosage or composition is invented.",
+  "entries": [
+    {
+      "id": "potato-npk-tnau-recommendation",
+      "productName": "NPK fertilizer (TNAU recommendation)",
+      "category": "fertilizer",
+      "crop": "potato",
+      "growth_stage": "general crop schedule",
+      "soil_context": "Use with soil-test/local recommendation where available; the cited schedule is a general TNAU horticulture recommendation.",
+      "fertilizer_type": "NPK fertilizer",
+      "N": 120,
+      "P": 240,
+      "K": 120,
+      "composition": "120 kg N + 240 kg P + 120 kg K per hectare",
+      "purpose": "Potato crop nutrition and tuber production.",
+      "application": "TNAU recommends 15 t/ha FYM and 2 kg each of Azospirillum and Phosphobacterium as basal; 120 kg N, 240 kg P and 120 kg K/ha in two splits, half as basal and the balance as top dressing 30 days after sowing. Magnesium sulphate at 60 kg/ha is also listed as a basal application.",
+      "application_method": "Basal application plus top dressing 30 days after sowing.",
+      "application_timing": "Half at planting/basal; remaining half at 30 days after sowing.",
+      "safety": "Prefer soil-test-based nutrient management where available. Follow local agricultural recommendations and the fertilizer label.",
+      "imageUrl": null,
+      "source": "Tamil Nadu Agricultural University – Horticulture: Potato fertilizer schedule",
+      "sourceUrl": "https://agritech.tnau.ac.in/horticulture/horti_veg_fert_potato.html",
+      "localized": {
+        "en": {
+          "productName": "NPK fertilizer (TNAU recommendation)",
+          "category": "Fertilizer",
+          "composition": "120 kg N + 240 kg P + 120 kg K per hectare",
+          "purpose": "Potato crop nutrition and tuber production.",
+          "application": "TNAU recommends 15 t/ha FYM and 2 kg each of Azospirillum and Phosphobacterium as basal; 120 kg N, 240 kg P and 120 kg K/ha in two splits, half as basal and the balance as top dressing 30 days after sowing. Magnesium sulphate at 60 kg/ha is also listed as a basal application.",
+          "application_method": "Basal application plus top dressing 30 days after sowing.",
+          "safety": "Prefer soil-test-based nutrient management where available. Follow local agricultural recommendations and the fertilizer label."
+        },
+        "hi": {
+          "productName": "एनपीके उर्वरक (TNAU सिफारिश)",
+          "category": "उर्वरक",
+          "composition": "120 किग्रा N + 240 किग्रा P + 120 किग्रा K प्रति हेक्टेयर",
+          "purpose": "आलू की फसल के पोषण और कंद उत्पादन के लिए।",
+          "application": "TNAU के अनुसार 15 टन/हेक्टेयर FYM तथा Azospirillum और Phosphobacterium 2-2 किग्रा बेसल दें; 120 किग्रा N, 240 किग्रा P और 120 किग्रा K/हेक्टेयर दो भागों में, आधा बेसल और शेष बुवाई के 30 दिन बाद टॉप ड्रेसिंग में दें। Magnesium sulphate 60 किग्रा/हेक्टेयर भी बेसल के रूप में सूचीबद्ध है.",
+          "application_method": "बेसल आवेदन और 30 दिन बाद टॉप ड्रेसिंग।",
+          "safety": "जहाँ उपलब्ध हो, मिट्टी परीक्षण आधारित पोषण प्रबंधन को प्राथमिकता दें। स्थानीय कृषि सलाह और उर्वरक लेबल का पालन करें।"
+        },
+        "mr": {
+          "productName": "NPK खत (TNAU शिफारस)",
+          "category": "खत",
+          "composition": "120 किलो N + 240 किलो P + 120 किलो K प्रति हेक्टर",
+          "purpose": "बटाट्याच्या पिकाच्या पोषणासाठी आणि कंद उत्पादनासाठी.",
+          "application": "TNAU नुसार 15 टन/हेक्टर शेणखत तसेच Azospirillum आणि Phosphobacterium प्रत्येकी 2 किलो बेसल द्यावे; 120 किलो N, 240 किलो P आणि 120 किलो K/हेक्टर दोन हप्त्यांत, अर्धे बेसल आणि उरलेले पेरणीनंतर 30 दिवसांनी टॉप ड्रेसिंगमध्ये द्यावे. Magnesium sulphate 60 किलो/हेक्टर बेसल म्हणूनही नमूद आहे.",
+          "application_method": "बेसल वापर आणि पेरणीनंतर 30 दिवसांनी टॉप ड्रेसिंग.",
+          "safety": "शक्य असल्यास माती परीक्षणावर आधारित खत व्यवस्थापनाला प्राधान्य द्या. स्थानिक कृषी सल्ला आणि खताच्या लेबलचे पालन करा."
+        }
+      }
+    }
+  ]
+}
